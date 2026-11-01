@@ -141,3 +141,7 @@ Hackathon prototype — functional end to end on synthetic data, not clinically 
 ## License
 
 [MIT](LICENSE)
+
+---
+
+<p align="center">Built by <a href="https://sheheryar.xyz">Sheheryar</a> · <a href="https://github.com/hexa3">github.com/hexa3</a></p>
